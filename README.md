@@ -1,3 +1,5 @@
+I have forked the original repo and adding a code folder for each section showing the work I have done
+
 Python Crash Course - Second Edition
 ===
 
