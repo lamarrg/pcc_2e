@@ -12,3 +12,4 @@ for food in buffet:
 buffet = ('carrots', 'bread', 'salad', 'pie', 'steak')
 for food in buffet:
     print(food)
+
