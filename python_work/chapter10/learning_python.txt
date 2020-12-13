@@ -1,0 +1,5 @@
+In Python you can iterate over a list
+In Python you can create a dictionary
+In Python you can scrape web pages
+In Python you can read files
+In Python you can do sciency things
