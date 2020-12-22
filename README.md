@@ -15,3 +15,7 @@ If you have any questions about Python Crash Course, feel free to get in touch:
 Email: ehmatthes@gmail.com
 
 Twitter: [@ehmatthes](http://twitter.com/ehmatthes/)
+
+https://ehmatthes.github.io/pcc_2e/
+
+https://ehmatthes.github.io/pcc_2e/regular_index/
