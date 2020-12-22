@@ -1,4 +1,6 @@
-I have forked the original repo and adding a code folder for each section showing the work I have done
+I have forked the original repo and adding a code projects in python_work for each section showing the work I have completed.
+
+NOTE: I am intentionally skipping project 1 as I want to focus on other aspects at this time.
 
 Python Crash Course - Second Edition
 ===
